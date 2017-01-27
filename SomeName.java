@@ -13,4 +13,8 @@ public class SomeName {
     return text;
   }
 
+  public void what() {
+    System.out.println("wazzaaaaaaa");
+  }
+
 }
