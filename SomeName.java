@@ -9,7 +9,9 @@ public class SomeName {
   public void printSomething(String something) {
     System.out.println(something);
   }
-  
+
   public String getText(String text) {
     return text;
+  }
+
 }
