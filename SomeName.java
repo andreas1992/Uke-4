@@ -17,4 +17,8 @@ public class SomeName {
     System.out.println("wazzaaaaaaa");
   }
 
+  public int Calculate(int number1, int number2) {
+    return number1 + number2;
+  }
+
 }
